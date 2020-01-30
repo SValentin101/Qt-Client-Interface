@@ -9,21 +9,20 @@ At the bottom of the window we have some simple stats about the whole list: numb
 
 When we are finished with the modifications or creations of clients we can export the information of our table (File -> Save File) as a csv file.
 
-
-/////	///// 	///// 	///// 
+//
 Qt Creator 4.11 (Community). 
 
 Qt is a cross-platform application development framework for desktop, embedded and mobile. Supported Platforms include Linux, OS X, Windows, VxWorks, QNX, Android, iOS, OS and others.
 Qt is not a programming language on its own. It is a framework written in C++. A preprocessor, the MOC (Meta-Object Compiler), is used to extend the C++ language with features like signals and slots.
 
 Link: https://www.qt.io/
+//
 
-/////	///// 	///// 	///// 
 
+The main source code can be located in the file of name: mainwindow.txt 
 
-The main source code can be located in the files of name: mainwindow.txt 
+In the folder I have also included a csv file called "MOCK_DATA.csv" that contais 1000 clients with all their data for it's use through the program and visualization. That data was randomly generated using a realistic data generator that can be found here: https://mockaroo.com/.
 
-In the folder I have also included a csv file called "MOCK_DATA.csv" that contais 1000 clients with all their data for it's use through the program and visualization. That data was randomly generated using a realistic data generator that can be found here: https://mockaroo.com/
 The EASY_DATA file is just a .csv file that contains between 3-5 clients, put there just in case that importing 1000 clients would obscure things.
 
 
