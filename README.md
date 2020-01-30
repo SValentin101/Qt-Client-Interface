@@ -30,4 +30,4 @@ The EASY_DATA file is just a .csv file that contains between 3-5 clients, put th
 
 The aim of this proyect was to put to practice some C++ concepts and also examine the features that the Qt Library has to offer.
 
-You can also find a link to a youtube video where you see the program in action here! --> https://youtu.be/aB3o8_kQMlo
+I've uploaded a video to youtube where you can see the program in action! --> https://youtu.be/aB3o8_kQMlo
