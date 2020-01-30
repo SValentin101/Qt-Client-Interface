@@ -1,0 +1,7 @@
+first_name,last_name,gender,country,phone,money
+Gypsy,Jendrach,F,Russia,290-16-1593,£40114.21
+Idalina,Bocken,F,Indonesia,809-59-8603,£93948.08
+Lindy,McCombe,F,Sweden,546-23-8878,£93783.14
+Idalina,Bocken,F,Indonesia,809-59-8603,£93948.08
+Idalina,Bocken,F,Indonesia,809-59-8603,£93948.08
+Lindy,McCombe,F,Sweden,546-23-8878,£93783.14
