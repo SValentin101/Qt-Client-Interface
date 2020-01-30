@@ -10,12 +10,14 @@ At the bottom of the window we have some simple stats about the whole list: numb
 When we are finished with the modifications or creations of clients we can export the information of our table (File -> Save File) as a csv file.
 
 //
+
 Qt Creator 4.11 (Community). 
 
 Qt is a cross-platform application development framework for desktop, embedded and mobile. Supported Platforms include Linux, OS X, Windows, VxWorks, QNX, Android, iOS, OS and others.
 Qt is not a programming language on its own. It is a framework written in C++. A preprocessor, the MOC (Meta-Object Compiler), is used to extend the C++ language with features like signals and slots.
 
 Link: https://www.qt.io/
+
 //
 
 
@@ -27,3 +29,5 @@ The EASY_DATA file is just a .csv file that contains between 3-5 clients, put th
 
 
 The aim of this proyect was to put to practice some C++ concepts and also examine the features that the Qt Library has to offer.
+
+You can also find a link to a youtube video where you see the program in action here! -> LINK
