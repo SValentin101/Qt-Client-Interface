@@ -21,7 +21,7 @@ Link: https://www.qt.io/
 //
 
 
-The main source code can be located in the file of name: mainwindow.txt 
+The main source code can be located in the file of name: mainwindow.cpp
 
 In the folder I have also included a csv file called "MOCK_DATA.csv" that contais 1000 clients with all their data for it's use through the program and visualization. That data was randomly generated using a realistic data generator that can be found here: https://mockaroo.com/.
 
@@ -30,4 +30,4 @@ The EASY_DATA file is just a .csv file that contains between 3-5 clients, put th
 
 The aim of this proyect was to put to practice some C++ concepts and also examine the features that the Qt Library has to offer.
 
-You can also find a link to a youtube video where you see the program in action here! -> LINK
+You can also find a link to a youtube video where you see the program in action here! --> https://youtu.be/aB3o8_kQMlo
